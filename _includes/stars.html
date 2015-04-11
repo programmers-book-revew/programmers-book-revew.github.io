@@ -1,0 +1,22 @@
+{% assign star      = '&#9733;' %}
+{% assign star_rest = '&#9734;' %}
+{% case rank %}
+{% when 'rank_1' %}
+   {% assign id = 1 %}
+   {% capture stars %}{{ star }}{% endcapture %}
+{% when 'rank_2' %}
+   {% assign id = 2 %}
+   {% capture stars %}{{ star }}{{ star }}{% endcapture %}
+{% when 'rank_3' %}
+   {% assign id = 3 %}
+   {% capture stars %}{{ star }}{{ star }}{{ star }}{% endcapture %}
+{% when 'rank_4' %}
+   {% assign id = 4 %}
+   {% capture stars %}{{ star }}{{ star }}{{ star }}{{ star }}{% endcapture %}
+{% when 'rank_5' %}
+   {% assign id = 5 %}
+   {% capture stars %}{{ star }}{{ star }}{{ star }}{{ star }}{{ star }}{% endcapture %}
+{% endcase %}
+{% capture stars_content %}{{ stars }}{% endcapture %}
+
+<span class="stars" id="{{ id }}">{{ stars_content }}</span>

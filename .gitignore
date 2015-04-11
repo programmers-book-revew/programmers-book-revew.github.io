@@ -1,0 +1,9 @@
+/bin
+/_site
+/.sass-cache
+/vendor
+/.bundle
+/Gemfile.lock
+/_work/__tag
+/_work/__posts
+/_work/__category
