@@ -117,12 +117,15 @@ img[align=right] {
   text-align: right;
 }
 
-.stars, .stars a {
-  color:#FC0 !important;
+.stars, .stars a, a .stars{
+  color:#FC0;
+}
+
+a.stars {
+  text-decoration: none;
 }
 
 .book_image  {
-  float: left;
 }
 
 .book_image a img {
@@ -133,9 +136,6 @@ img[align=right] {
   color: rgba($text-color, .5);
   font-size: 0.9em;
   letter-spacing: 0.1em;
-  float: right;
-  width: 400px;
-  margin-top: 190px;
 }
 
 .book {
