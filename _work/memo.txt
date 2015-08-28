@@ -1,0 +1,7 @@
+* postの追加は _posts/ に直接 mdファイルを置く
+* images にアイコンを置く
+* プログラムの実行
+  ./bin/jekyll server
+  http://localost:4000/ 
+* tagを追加するには _layouts/tag.html に追加する
+* もう、review.jsonは管理しない
