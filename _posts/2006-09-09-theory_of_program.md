@@ -6,7 +6,7 @@ tags: [計算機科学]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4000103539"><img src="/images/theory_of_program.jpg"></img></a></div><div class="book_info">1991 岩波書店 佐藤 雅彦, 桜井 貴文</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4000103539"><img src="/images/theory_of_program.jpg"></a></div><div class="book_info">1991 岩波書店 佐藤 雅彦, 桜井 貴文</div><div class="clear"></div></div>
 
 購入してから10年以上、ようやく著者の言いたいことが分かるようになった感じ(細かい内容は全て理解していないけど)。本には理解に必要な情報が全て載っているのに(自分がヘボのため)理解できていなかった。(1階述語論理、不完全性定理、表示的意味論などの)周辺の知識を知ることで読めるようになった。
 

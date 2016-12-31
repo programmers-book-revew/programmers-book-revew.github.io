@@ -6,6 +6,6 @@ tags: [UI, Norman]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788511711"><img src="/images/invisible_computer.jpg"></img></a></div><div class="book_info">ドナルド・A. ノーマン/新曜社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788511711"><img src="/images/invisible_computer.jpg"></a></div><div class="book_info">ドナルド・A. ノーマン/新曜社</div><div class="clear"></div></div>
 
 自分も計算機は人間が何かを行うものを支援するモノであると考えているので、目に見えないうちに計算機が支援しているという考えには強く共感しながら、本を読んだのだけど、その内容はあまり深くなく残念。イノベーションのジレンマとキャズムを用いて説明している所は何となく退屈だった。優れたモノの作り方をプロセスや組織などについて書いている箇所があるのだけど、まさにIDEOで実践されていることではないかと思った。情報アプライアンスという聞きなれない単語をフィーチャーしているのだけど、要は何か機能に特化した電子機器のこと。計算機が安価になれば、この流れは加速するとは確かに思う。それだからこそ、タンジブルのような特化されたインターフェイスが重要になっているのかも、と無理につなげてみる。

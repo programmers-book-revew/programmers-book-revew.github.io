@@ -6,7 +6,7 @@ tags: [UI, Norman]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788509210/"><img src="/images/emotional_design.jpg"></img></a></div><div class="book_info">ドナルド A.ノーマン/新曜社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788509210/"><img src="/images/emotional_design.jpg"></a></div><div class="book_info">ドナルド A.ノーマン/新曜社</div><div class="clear"></div></div>
 
 “誰のためのデザイン?”では不適切なデザインをいかに無くすかを書いていたけど、やっぱり人を熱狂させるような何かも必要だよねという感じの本。好き嫌いのうち、“嫌い”を適切なデザインで排除することはできるがそれには限界がある、ということを言っている(p.210)。“好き”を作る必要があるということだと思う。 
 

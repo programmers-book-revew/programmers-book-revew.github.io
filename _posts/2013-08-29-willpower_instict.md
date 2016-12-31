@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4479793631"><img src="/images/willpower_instict.jpg"></img></a></div><div class="book_info">ケリー・マクゴニガル/大和書房大和書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4479793631"><img src="/images/willpower_instict.jpg"></a></div><div class="book_info">ケリー・マクゴニガル/大和書房大和書房</div><div class="clear"></div></div>
 
 図書館で予約して8ヵ月後に届きました。大人気。
 

@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/488335220X"><img src="/images/playful_thinking.jpg"></img></a></div><div class="book_info">上田 信行 / 宣伝会議</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/488335220X"><img src="/images/playful_thinking.jpg"></a></div><div class="book_info">上田 信行 / 宣伝会議</div><div class="clear"></div></div>
 
 著者の上田さんとは同じラボということでお会いして、研究のお話を聞いて、おもしろそうと食いついて購入。自分自身なんとなくそう感じていることが言葉でより明確に説明されていて、あっという間に読み終えた。何でも楽しくチャレンジする気持ちが重要なのだと思う。楽しいことは、あたり前だけど苦にならない。何でも楽しむためには、自分で自分の壁を作らない。自分にできるかと悩むよりも、どうやったら、誰とやればできるだろう、と考える。つまらない仕事と考えずに、この仕事を通して何を自分が吸収するのかを考える。 
 

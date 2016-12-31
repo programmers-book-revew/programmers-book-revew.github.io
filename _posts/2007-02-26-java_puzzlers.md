@@ -6,7 +6,7 @@ tags: [プログラマ, java, パズル]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894716895"><img src="/images/java_puzzlers.jpg"></img></a></div><div class="book_info">ジョシュア・ブロック, ニール・ガフター/ピアソン・エデュケーション</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894716895"><img src="/images/java_puzzlers.jpg"></a></div><div class="book_info">ジョシュア・ブロック, ニール・ガフター/ピアソン・エデュケーション</div><div class="clear"></div></div>
 
 この手(*)の本に書いてあることには興味がなかった。自分には、そのような知識が既にあると思っていたし、そのような仕事もしていた。でも、この本は巷にあふれている本とレベルが違う。Effective Javaの著者と知り納得(読んでないけど)。自分の無知さを恥じるより深さに感心することが多かった。
 

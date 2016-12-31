@@ -6,7 +6,7 @@ tags: [経済]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4532354390/"><img src="/images/losers_game.jpg"></img></a></div><div class="book_info">チャールズ・エリス/日本経済新聞出版社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4532354390/"><img src="/images/losers_game.jpg"></a></div><div class="book_info">チャールズ・エリス/日本経済新聞出版社</div><div class="clear"></div></div>
 
 正月に401kの勉強として。
 

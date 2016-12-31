@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4422100521"><img src="/images/how_to_stop_worrying.jpg"></img></a></div><div class="book_info">デール カーネギー / 創元社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4422100521"><img src="/images/how_to_stop_worrying.jpg"></a></div><div class="book_info">デール カーネギー / 創元社</div><div class="clear"></div></div>
 
 人を動かすを読んで調子に乗って買ってみた。悩みについて書いてあるのだけど、最初少し読んで、そういえば自分は悩んでないことに気づいた。アハ。
 

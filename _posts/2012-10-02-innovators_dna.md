@@ -6,7 +6,7 @@ tags: [イノベーション, Chrisstensen]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798124710"><img src="/images/innovators_dna.jpg"></img></a></div><div class="book_info">Clayton M. Chrisstensen等/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798124710"><img src="/images/innovators_dna.jpg"></a></div><div class="book_info">Clayton M. Chrisstensen等/翔泳社</div><div class="clear"></div></div>
 
 イノベーションのジレンマの著者の新作(と言ってももう新しくないけど)。良い本だった。
 

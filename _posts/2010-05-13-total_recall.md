@@ -6,7 +6,7 @@ tags: [イノベーション]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4153200107/"><img src="/images/total_recall.jpg"></img></a></div><div class="book_info">ゴードン ベル, ジム ゲメル/早川書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4153200107/"><img src="/images/total_recall.jpg"></a></div><div class="book_info">ゴードン ベル, ジム ゲメル/早川書房</div><div class="clear"></div></div>
 
 自分に関するデータをすべて電子データで記録しるとどんな世界が待っているかについて述べている。日常の買い物で電球のサイズのどれを買えば言いのだろうと迷ったときに、とにかくすべてを記録しておいてその場で見れれば、前買ったものと同じものを買うことができて便利と思っていた自分にはもってこいの本。かしこい人が自分の興味ある分野について解説してくれると、思いもつかないアイデアに触れることができてとてもうれしい。いろいろと考えを想像させてくれておもしろい。というより、自分の考えがいかに浅いかってことなのだけど。 
 

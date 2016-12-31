@@ -6,7 +6,7 @@ tags: [ソフトウェア工学, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115116"><img src="/images/making_software.jpg"></img></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115116"><img src="/images/making_software.jpg"></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
 
 ソフトウェア工学について何もしらずかつ懐疑的な自分にとっておもしろい本で楽しく読めた。以下のような、一見不思議とも思える内容や、何となくそう思っていたけどどこにも載っていないような内容が書かれており興味深かったので。 
 

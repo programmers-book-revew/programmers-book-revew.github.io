@@ -6,7 +6,7 @@ tags: [自己啓発, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113075"><img src="/images/time_management.jpg"></img></a></div><div class="book_info">Thomas A. Limoncelli / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113075"><img src="/images/time_management.jpg"></a></div><div class="book_info">Thomas A. Limoncelli / オライリージャパン</div><div class="clear"></div></div>
 
 * TODO.txt(やる事リストのテキストファイル)が増加し続け、気づけば200KBを越えている 
 * 雑務(重要で無いがやらなくてはいけないこと)は怒られてからでないとやらない。

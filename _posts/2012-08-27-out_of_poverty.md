@@ -6,7 +6,7 @@ tags: [イノベーション]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4862761062/"><img src="/images/out_of_poverty.jpg"></img></a></div><div class="book_info">Paul Polak/英治出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4862761062/"><img src="/images/out_of_poverty.jpg"></a></div><div class="book_info">Paul Polak/英治出版</div><div class="clear"></div></div>
 
 おもしろかった。おもしろく読むことができたのは、一般的な話の前に、個人の体験談(ストーリー)をおりまぜることで、主張や内容がすぐに納得できるからなのだと思う。
 

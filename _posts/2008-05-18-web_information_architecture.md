@@ -6,7 +6,7 @@ tags: [web, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311134X"><img src="/images/web_information_architecture.jpg"></img></a></div><div class="book_info">Louis Rosenfeld, Peter Morville/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311134X"><img src="/images/web_information_architecture.jpg"></a></div><div class="book_info">Louis Rosenfeld, Peter Morville/オライリージャパン</div><div class="clear"></div></div>
 
 陳腐な言葉で言えば「Webサイトの作り方」に関する本。ただし、HTMLの書き方ではなく、情報をどう管理すれば良いかについて書かれている。基本的なことが書いてあるのだけど、それを知るのために苦労した知識も多いので、最初にこの本を読んでおけば良かったと後悔するくらい。 
 

@@ -6,7 +6,7 @@ tags: [web, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113539"><img src="/images/restful_web_service.jpg"></img></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113539"><img src="/images/restful_web_service.jpg"></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
 
 「サーバ側のリソースの状態が変化するときは POST を、状態が変化しないときは GET を使う」という下のURLの文章を読んで、自分が全くRESTful(というかHTTP)を理解していないことに気づき衝動買いしたもの。http://blogs.ricollab.jp/webtech/2008/04/introduction_to_rest/ 
 

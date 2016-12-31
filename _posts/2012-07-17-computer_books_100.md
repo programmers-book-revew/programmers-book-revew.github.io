@@ -6,7 +6,7 @@ tags: [本]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4844323040"><img src="/images/computer_books_100.jpg"></img></a></div><div class="book_info">石田 晴久, 青山 幹雄, 安達 淳, 塩田 紳二, 山田 伸一郎/インプレスジャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4844323040"><img src="/images/computer_books_100.jpg"></a></div><div class="book_info">石田 晴久, 青山 幹雄, 安達 淳, 塩田 紳二, 山田 伸一郎/インプレスジャパン</div><div class="clear"></div></div>
 
 故・石田晴久氏の追悼特集を見て知った本。本が届く前にはおもしろそうと思って100冊全部読んでやろうかと思ったけど、見てみると興味を持てないものも多かった。新人の人には良い本なのか、と思ったら「若きエンジニア<必読>のブックガイド」と表紙に書いてあった。そういうことね。読んでない本でも、あらかたの分野でなんとなく雰囲気が分かった気になってしまえるのは良いのか悪いのか。でも次々に、アルゴリズム・デザインとかビューティフルコードとか良い本が出てきてくれているのはうれしい限り。 
 

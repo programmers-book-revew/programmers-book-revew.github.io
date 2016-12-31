@@ -6,7 +6,7 @@ tags: [DB]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873112753"><img src="/images/database_theory_in_practice.jpg"></img></a></div><div class="book_info">Chris J. Date/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873112753"><img src="/images/database_theory_in_practice.jpg"></a></div><div class="book_info">Chris J. Date/オライリージャパン</div><div class="clear"></div></div>
 
 SQLはキライだった。覚える価値も無いと思っていた。それがそう思っても悪くないんだと勇気づけられた。
 

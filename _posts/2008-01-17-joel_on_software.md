@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274066304"><img src="/images/joel_on_software.jpg"></img></a></div><div class="book_info">Joel Spolsky/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274066304"><img src="/images/joel_on_software.jpg"></a></div><div class="book_info">Joel Spolsky/オーム社</div><div class="clear"></div></div>
 
 Microsoftを見直した。何か、Microsoftだからという理由だけで毛嫌いしている人を見るとイヤな感じだったのよね。だから、良いことは良いことと評価することは必要だと思う。といっても、この本はMicrosoftの話はごく一部の内容であって、この分野に関わる全ての人(技術者、プロジェクトリーダ、管理者、経営者)に為になると思う。Microsoftの技術者だった人が書いた本を読んでそう思った。 Webで公開されているので全文(原文:英語)が読める(その内のいくつかは日本語に訳されている)。 
 

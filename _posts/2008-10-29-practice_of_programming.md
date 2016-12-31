@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4756136494"><img src="/images/practice_of_programming.jpg"></img></a></div><div class="book_info">Brian Kernighan, Rob Pike/アスキー</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4756136494"><img src="/images/practice_of_programming.jpg"></a></div><div class="book_info">Brian Kernighan, Rob Pike/アスキー</div><div class="clear"></div></div>
 
 “珠玉のプログラミング”と比べるとアカデミックと言うより実践的か(と、思ったら原題がズバリThe Practice of Programmingだった)。もちろん、どちらがどうと言うことではなく、両方良い本。書いてあることは良いことなのだけど、一度苦労しないとその良さが分からないとも思う。それでも、最初にこういう本を読んでおきたかった。 
 

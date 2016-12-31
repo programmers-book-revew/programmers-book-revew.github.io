@@ -6,7 +6,7 @@ tags: [プログラマの読み物]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4794204302"><img src="/images/tracking_a_spy.jpg"></img></a></div><div class="book_info">クリフォード・ストール / 草思社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4794204302"><img src="/images/tracking_a_spy.jpg"></a></div><div class="book_info">クリフォード・ストール / 草思社</div><div class="clear"></div></div>
 
 psのオプションでハッカーがバークレイの人ではないことを見抜く、そんな紹介文に心踊らせ買った本。題名は自分がハックしたコンピュータを自由に使えるようにプログラムを作り置きそこから新たなハック先へと飛び立つことを表している。 
 

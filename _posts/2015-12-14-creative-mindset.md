@@ -5,7 +5,7 @@ categories: rank_4
 tags: [デザイン, IDEO]
 ---
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822250253"><img src="/images/creative_mindset.jpg"></img></a></div><div class="book_info">デイヴィッド ケリー, トム ケリー/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822250253"><img src="/images/creative_mindset.jpg"></a></div><div class="book_info">デイヴィッド ケリー, トム ケリー/日経BP社</div><div class="clear"></div></div>
 
 冬に日本でドサクサ紛れで著者のTom Kellyの講演を聞いて読んだ気になってしまい積ん読状態になっていたけど、仕事で関連しそうなので読みつづけて読了までたどり着いた。
 

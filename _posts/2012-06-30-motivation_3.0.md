@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4062144492/"><img src="/images/motivation_3.0.jpg"></img></a></div><div class="book_info">ダニエル・ピンク/講談社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4062144492/"><img src="/images/motivation_3.0.jpg"></a></div><div class="book_info">ダニエル・ピンク/講談社</div><div class="clear"></div></div>
 
 モチベーションの話となると、科学の知識とビジネスの現場にはギャップがある。ビジネスにおける現在の基本ソフト(OS)は、外部から与えられるアメとムチ式の動機付けを中心に構築されている。これはうまくいかないし、有害な場合も多い。アップグレードが必要なんだ。科学者たちの研究成果がその方法を示している。この新しいアプローチには重要な要素がある。一つは<自律性> - 自分の人生を自ら導きたいという欲求のこと。二番目は<マスタリー(熟達)> - 自分にとって意味のあることを上達させたいという衝動のこと。三番目は<目的> - 自分よりも大きいこと、自分の利益を越えたことのために活動したい、という切なる思いのことだ (p.277の本書の概要) という本。 
 

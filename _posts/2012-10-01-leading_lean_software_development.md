@@ -6,7 +6,7 @@ tags: [イノベーション]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4048687417"><img src="/images/leading_lean_software_development.jpg"></img></a></div><div class="book_info">Mary and Tom Poppendick/アスキー・メディアワークス</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4048687417"><img src="/images/leading_lean_software_development.jpg"></a></div><div class="book_info">Mary and Tom Poppendick/アスキー・メディアワークス</div><div class="clear"></div></div>
 
 よい本だった。前半は前の本と重複している点があったのか、あまり目新しさは感じなかったが、後半は本のタイトルである「組織改革」にふさわしい内容で、多々心に響く所があった。
 

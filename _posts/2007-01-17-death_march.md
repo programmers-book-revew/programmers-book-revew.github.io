@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822282716"><img src="/images/death_march.jpg"></img></a></div><div class="book_info">エドワード・ヨードン/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822282716"><img src="/images/death_march.jpg"></a></div><div class="book_info">エドワード・ヨードン/日経BP社</div><div class="clear"></div></div>
 
 PM本には興味がなかった。そもそもプロジェクト自体に興味がなかった。初めてのプロジェクトがプチ・デスマーチであり、それを管理する必要もあるけど責任はない(*)という微妙な立場を終えようとしている今、その価値もやっと分かるだろうということで読んでみた。
 

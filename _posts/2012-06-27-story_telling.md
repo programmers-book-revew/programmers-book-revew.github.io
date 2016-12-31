@@ -6,7 +6,7 @@ tags: [UI]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4621084593"><img src="/images/story_telling.jpg"></img></a></div><div class="book_info">Whitney Quesenbery, Kevin Brooks / 丸善出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4621084593"><img src="/images/story_telling.jpg"></a></div><div class="book_info">Whitney Quesenbery, Kevin Brooks / 丸善出版</div><div class="clear"></div></div>
 
 人が理解するには、具体的な話で雰囲気を知ってもらうのが、一番だということなんだと思う。我々かしこくないので、抽象的な論理から説明に入られるよりも具体的な話からの方がわかりやすい(中には学会であいまいでよく分からないから表示的意味論の数式書いて、というカシコイ人もいるけど...)。共感されるためには個々の思いや詳細が重要で、そのためのストーリーテリングなのだと思う。ただし、それはあくまでもリサーチに裏付けられたシナリオを表現するための手段であって、それがなければエンジニアにガツンと叩かれて終わってしまう。 
 

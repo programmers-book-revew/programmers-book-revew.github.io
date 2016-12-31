@@ -6,7 +6,7 @@ tags: [イノベーション]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/482228350X"><img src="/images/implementing_lean_software_development.jpg"></img></a></div><div class="book_info">Mary Poppendieck等/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/482228350X"><img src="/images/implementing_lean_software_development.jpg"></a></div><div class="book_info">Mary Poppendieck等/日経BP社</div><div class="clear"></div></div>
 
 コンセプトからキャッシュにするまでの時間をいかに短くするかというリーンのお話。
 

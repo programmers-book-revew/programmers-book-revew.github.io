@@ -6,7 +6,7 @@ tags: [web]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.com/dp/1933988312"><img src="/images/collective_intelligence_in_action.jpg"></img></a></div><div class="book_info">Satnam Alag/Manning Pubns Co</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.com/dp/1933988312"><img src="/images/collective_intelligence_in_action.jpg"></a></div><div class="book_info">Satnam Alag/Manning Pubns Co</div><div class="clear"></div></div>
 
 発売前なので発売後用に、ManningのCollective Intelligence in Actionを読んだ感想をここに記す。発売されたらレビューに書く。発売前のものがPDFで購入できるようになっている。 
 [http://www.manning.com/alag/](http://www.manning.com/alag/) 

@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478029296"><img src="/images/free_agent_nation.jpg"></img></a></div><div class="book_info">ダニエル・ピンク/ダイヤモンド社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478029296"><img src="/images/free_agent_nation.jpg"></a></div><div class="book_info">ダニエル・ピンク/ダイヤモンド社</div><div class="clear"></div></div>
 
 今、会社を辞めたら、自分は社会でどの程度の価値があるかを考えているので興味があり手に取った。  
 自分が仕事に何を望むかと言えば、自己実現に尽きると思う。会社への忠誠心なんてまるでないし、お互いギブ&テイクが常に成り立っているかを考える必要がある。具体的には、自分は仕事を通じて成長し続けられているか、自分は会社が期待する成果を出しているかだ。

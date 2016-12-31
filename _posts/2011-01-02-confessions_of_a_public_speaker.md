@@ -6,7 +6,7 @@ tags: [プレゼンテーション, oreilly, Berkun]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311473X"><img src="/images/confessions_of_a_public_speaker.jpg"></img></a></div><div class="book_info">Scott Berkun/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311473X"><img src="/images/confessions_of_a_public_speaker.jpg"></a></div><div class="book_info">Scott Berkun/オライリージャパン</div><div class="clear"></div></div>
 
 イノベーションの神話、アート・オブ・プロジェクトマネージメントの著者で、この著者が書いたからという理由だけで買った本。好きな映画監督が撮ったからという理由で見るような感覚に近いし、安定した結果が得られることもうれしい理由。 
 

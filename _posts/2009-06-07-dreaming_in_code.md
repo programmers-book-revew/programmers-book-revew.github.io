@@ -6,7 +6,7 @@ tags: [プログラマの読み物]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822283801"><img src="/images/dreaming_in_code.jpg"></img></a></div><div class="book_info">スコット・ローゼンバーグ / 日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822283801"><img src="/images/dreaming_in_code.jpg"></a></div><div class="book_info">スコット・ローゼンバーグ / 日経BP社</div><div class="clear"></div></div>
 
 この本を知ったのはJoelのコラムだった。日本語訳が出たのを知って買ってみた。
 [http://local.joelonsoftware.com/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC](http://local.joelonsoftware.com/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC) 

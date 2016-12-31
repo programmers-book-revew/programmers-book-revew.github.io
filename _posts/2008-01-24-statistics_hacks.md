@@ -6,7 +6,7 @@ tags: [統計, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113350"><img src="/images/statistics_hacks.jpg"></img></a></div><div class="book_info">Bruce Frey / オライリー・ジャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113350"><img src="/images/statistics_hacks.jpg"></a></div><div class="book_info">Bruce Frey / オライリー・ジャパン</div><div class="clear"></div></div>
 
 文章で興味を引こうとしているのだろうけど、内容が残念ながらイマイチ。あまり、目新しい内容が無かった。我ながら結構、確率と統計の授業をキチント受けていたのね、ということを認識。統計を勉強している人にはその意味が理解できて良いかも。後半は統計をゲームや世の中に応用して、という内容なのだけど、これもどこか(多分、経済や数学の雑学系の本)で読んだ話ばかりだった。 
 

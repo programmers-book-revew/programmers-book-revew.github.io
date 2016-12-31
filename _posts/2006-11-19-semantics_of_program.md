@@ -6,7 +6,7 @@ tags: [計算機科学]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320026578"><img src="/images/semantics_of_program.jpg"></img></a></div><div class="book_info">共立出版/横内 寛文</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320026578"><img src="/images/semantics_of_program.jpg"></a></div><div class="book_info">共立出版/横内 寛文</div><div class="clear"></div></div>
 
 学生時代に理解できなかったことを10年かかっておぼろげに理解している。以下にメモとして残す。 
 

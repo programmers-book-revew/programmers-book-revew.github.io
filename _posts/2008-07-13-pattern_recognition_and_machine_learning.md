@@ -6,7 +6,7 @@ tags: [機械学習]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4621061224"><img src="/images/pattern_recognition_and_machine_learning.jpg"></img></a></div><div class="book_info">C.M. ビショップ / 丸善出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4621061224"><img src="/images/pattern_recognition_and_machine_learning.jpg"></a></div><div class="book_info">C.M. ビショップ / 丸善出版</div><div class="clear"></div></div>
 
 Web 2.0系の本を読んで、ライブラリやアルゴリズムを使えば色々と出来ることは理解した。でも、何故そう出来るのかという根本的な所は分からないし、色々と出てくるアルゴリズムがどの位置に属するのかを知りたくて読み始めた本。本当は下巻が読みたい内容だったのだけど。 
 

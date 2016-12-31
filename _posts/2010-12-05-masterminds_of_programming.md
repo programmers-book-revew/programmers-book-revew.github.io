@@ -6,7 +6,7 @@ tags: [プログラマ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114713"><img src="/images/masterminds_of_programming.jpg"></img></a></div><div class="book_info">Federico Biancuzzi, Shane Warden /オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114713"><img src="/images/masterminds_of_programming.jpg"></a></div><div class="book_info">Federico Biancuzzi, Shane Warden /オライリージャパン</div><div class="clear"></div></div>
 
 色々な言語の設計者のインタビュー。言語マニアにはウハウハかと思ったけど、自分はそこまででもないからか、そこまで楽しめなかった。残念。でも、言語に対する思いや、その背景に触れることができるのは、確かにおもしろい。Eiffelは昔から良い言語だと思っていたのだけど、設計については当たり前のことをやっただけのこと(半日でコアを考えた)というのだから、すごいの一言。
 

@@ -6,7 +6,7 @@ tags: [チーム, ワインバーグ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320025636"><img src="/images/becoming_a_technical_leader.jpg"></img></a></div><div class="book_info">G.M. ワインバーグ/共立出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320025636"><img src="/images/becoming_a_technical_leader.jpg"></a></div><div class="book_info">G.M. ワインバーグ/共立出版</div><div class="clear"></div></div>
 
 ワインバーグ第2段。 
 

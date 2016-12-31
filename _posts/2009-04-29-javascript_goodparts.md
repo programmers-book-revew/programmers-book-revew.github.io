@@ -6,7 +6,7 @@ tags: [プログラマ, javascript, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113911"><img src="/images/javascript_goodparts.jpg"></img></a></div><div class="book_info">Douglas Crockford/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113911"><img src="/images/javascript_goodparts.jpg"></a></div><div class="book_info">Douglas Crockford/オライリージャパン</div><div class="clear"></div></div>
 
 JavaScriptの良い書き方、悪い書き方について著者の熱い情熱で綴っている。見識は深いのだけど、その情熱は、大部分の人は引いてしまう気がする。自分で取捨選択するのが良いと思う。実際、かなりためになった。
 

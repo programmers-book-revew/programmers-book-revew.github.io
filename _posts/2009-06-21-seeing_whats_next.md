@@ -6,7 +6,7 @@ tags: [イノベーション, Chrisstensen]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4270000716"><img src="/images/seeing_whats_next.jpg"></img></a></div><div class="book_info">クレイトン・M・クリステンセン / ランダムハウス講談社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4270000716"><img src="/images/seeing_whats_next.jpg"></a></div><div class="book_info">クレイトン・M・クリステンセン / ランダムハウス講談社</div><div class="clear"></div></div>
 
 イノベーションのジレンマ、イノベーションへの解に続く第3段。今までの理論を使って、今起きているイノベーションがどのような道をたどるかの予測を可能にしようという意欲作。とは言っても、読者にそのような力が付くかと言われると疑問が残る。本書の中でも言われていたけど、実際に分からないことが起こるのが世の中の常であり、それを予測することはできない。ただ、実際に起きたことに対してこの理論を適用することで説明が付くことがある、ということを示しているにすぎない。それでも、教育、航空、半導体、ヘルスケア、国家、通信といった多様の業種に当てはめてこれらを説明することによって、その適用力の幅広さを示している。単に、読み物としてもおもしろかった。 
 

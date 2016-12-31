@@ -6,7 +6,7 @@ tags: [UI]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/441430623X"><img src="/images/meaning_of_thing.jpg"></img></a></div><div class="book_info">M.チクセントミハイ, E.ロックバーグ=ハルトン/誠信書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/441430623X"><img src="/images/meaning_of_thing.jpg"></a></div><div class="book_info">M.チクセントミハイ, E.ロックバーグ=ハルトン/誠信書房</div><div class="clear"></div></div>
 
 本が電子ブックに、写真がデジタル画像に置き換わり、テレビは壁に映し出されるようになったとき、人間に必要な物は生活に必要最小限な衣食住以外に何が必要になってくるのか。電子的なものではダメで物でなければならない理由は何にあるのか。この疑問の答えのヒントを求めて読んでみた。 
 「あなたの重要なものはなにか。そして、それがもしなくなったらどう思うか」という問いを様々な家庭に行い、その分析を通して、人のものに対する思いを調査していく。 

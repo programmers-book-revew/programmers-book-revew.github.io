@@ -6,7 +6,7 @@ tags: [UI, Norman]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788511347"><img src="/images/design_of_future_things.jpg"></img></a></div><div class="book_info">ドナルド・A・ノーマン/新曜社 </div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788511347"><img src="/images/design_of_future_things.jpg"></a></div><div class="book_info">ドナルド・A・ノーマン/新曜社 </div><div class="clear"></div></div>
 
 人間と計算機がどのように今後接していくのかという観点で興味深かった。本では主に自動車などの機械にスポットがあてられていたけど、ユーザインタフェイス全般を想像しながら読んだ。計算機には限界があって人間の意図を100%正しく理解することができない(人間だって他人を理解することは不可能なのに!)。意図を外されたときの計算機の行動は、人間をイライラさせ、ときには大きな事故にさえ通じる。そうであれば、初めからそのような目標はあきらめて、うまく人間をサポートするような、もしくは人間が計算機に合わせやすいように行動するものを目指すべきではないか。と、著者は言っているのだと思う。この考えは、計算機が人間に合わせるべきという“誰のためのデザイン?”をさらに深めた考え(第一原則はもちろんそのままだけど)であり、かなり共感する。最後の機械側から見た人間の文章は、お話としておもしろいだけでなく、こういう考え方ができる人はすごいなあ、とただただ感心。モノを作るときの考え方の参考にしたい。 
 

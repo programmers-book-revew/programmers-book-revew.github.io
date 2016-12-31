@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4775941119"><img src="/images/one_minute_manager.jpg"></img></a></div><div class="book_info">ケン・ブランチャード, ウィリアム・オンケンJr / パンローリング </div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4775941119"><img src="/images/one_minute_manager.jpg"></a></div><div class="book_info">ケン・ブランチャード, ウィリアム・オンケンJr / パンローリング </div><div class="clear"></div></div>
 
 部下の仕事(モンキー)は部下に任せましょう、という本。担当者の仕事に手を貸さない管理者に対してコノヤローと思う気持ちがやわらいだ気がする。尊敬するわけではないけど。30円(+送料350円)と1～2時間で読める本にしては大満足。今気づいたのだけど、題名が“マネージャ”ではなく“マネジャー”だ。 
 

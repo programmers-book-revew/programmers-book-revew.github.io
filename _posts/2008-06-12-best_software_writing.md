@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798115819"><img src="/images/best_software_writing.jpg"></img></a></div><div class="book_info">/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798115819"><img src="/images/best_software_writing.jpg"></a></div><div class="book_info">/翔泳社</div><div class="clear"></div></div>
 
 発売当初に買っていたけど、他の本を読んでたのでやっと読み終わる。考えなくても読め、良質な内容が保証されているこういう本は良い。でも、テレビを見ている時のような後ろめたさを感じる。他に読むべき本があるからか。まあ、気分転換。 
 

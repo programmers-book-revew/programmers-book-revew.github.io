@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320122178"><img src="/images/alghorithm_design.jpg"></img></a></div><div class="book_info">Jon Kleinberg, Eva Tardos/共立出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320122178"><img src="/images/alghorithm_design.jpg"></a></div><div class="book_info">Jon Kleinberg, Eva Tardos/共立出版</div><div class="clear"></div></div>
 
 Collective Intelligence以上に良い今年一番の本。 
 

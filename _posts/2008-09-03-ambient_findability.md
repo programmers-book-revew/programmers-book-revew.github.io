@@ -6,7 +6,7 @@ tags: [プログラマ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873112834"><img src="/images/ambient_findability.jpg"></img></a></div><div class="book_info">Peter Morville / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873112834"><img src="/images/ambient_findability.jpg"></a></div><div class="book_info">Peter Morville / オライリージャパン</div><div class="clear"></div></div>
 
 次のようなことをごくたまに考える自分にとって、inspireされるべく読んでみたけど、残念ながら期待したほどの成果は得られなかった。 
 

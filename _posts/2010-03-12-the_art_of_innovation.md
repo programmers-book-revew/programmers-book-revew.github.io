@@ -6,7 +6,7 @@ tags: [イノベーション, IDEO]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/415208426X"><img src="/images/the_art_of_innovation.jpg"></img></a></div><div class="book_info">Tom Kelley, Jonathan Littman/早川書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/415208426X"><img src="/images/the_art_of_innovation.jpg"></a></div><div class="book_info">Tom Kelley, Jonathan Littman/早川書房</div><div class="clear"></div></div>
 
 IDEOという会社のイノベーションの方法を書いている。デザイン系の会社らしく本がカラーで絵がきれい。これだけで気持ちよく読むことができる。結局のところ、人の才能を含んだ職場の環境が大事だということを言っているのだと思う。そして職場で働く人々に対する仲間意識。この本を読んで次のような疑問を持つ。いつから上司を面倒な存在だと思い始めるのだろう。どうして、そう思うのだろう。お互いのコミュニケーションを妨げているものは何なのだろう。なぜ目標を共有できないのだろう。本当に上司は目標を達成したいのかと疑問に思うのはなぜだろう。本当に目標を達成したいと思える目標なのだろうか。誰がその目標をどうして決めたのだろう。なぜその目標に共感できないのだろう。始める前からいいものなんて分からないのに、なぜ始めたらそれを成功したことにしなければならないのだろう。 
 

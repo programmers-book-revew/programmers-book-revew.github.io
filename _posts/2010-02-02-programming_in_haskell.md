@@ -6,7 +6,7 @@ tags: [プログラマ, haskell]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274067815/"><img src="/images/programming_in_haskell.jpg"></img></a></div><div class="book_info">Graham Hutton/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274067815/"><img src="/images/programming_in_haskell.jpg"></a></div><div class="book_info">Graham Hutton/オーム社</div><div class="clear"></div></div>
 
 Hakellのあこがれは、カテゴリ(圏論)の理解へのあこがれだった。ソフトウェア科学のための論理学(岩波講座)という本でカテゴリを挫折して依頼、いつかは自分も理解したいと思っていた。がんばって理解しようとしてもがいた感覚ではカテゴリとは関数を値とするような世界の記述方法なんだろうって感覚だった。そして、それがHaskellできそうな気がすると思い始めたとき、これを使いこなせればカテゴリも理解しやすくなっているのではないかと淡い期待を抱いた。 
 

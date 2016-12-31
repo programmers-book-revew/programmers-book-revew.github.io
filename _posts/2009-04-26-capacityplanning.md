@@ -6,7 +6,7 @@ tags: [web]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113997"><img src="/images/capacityplanning.jpg"></img></a></div><div class="book_info">John Allspaw/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113997"><img src="/images/capacityplanning.jpg"></a></div><div class="book_info">John Allspaw/オライリージャパン</div><div class="clear"></div></div>
 
 キャパシティプランニングという言葉は全く聞いたことがなかった。本を読んで、増加し続けるリソースに対して、いつ新たなシステムを導入すべきかを計画することなのか、と勝手に解釈。 
 

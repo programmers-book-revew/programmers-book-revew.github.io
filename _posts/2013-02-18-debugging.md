@@ -6,7 +6,7 @@ tags: [oreilly, プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115930"><img src="/images/debugging.jpg"></img></a></div><div class="book_info">Andreas Zeller/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115930"><img src="/images/debugging.jpg"></a></div><div class="book_info">Andreas Zeller/オライリージャパン</div><div class="clear"></div></div>
 
 デバッグについて体系的に学びたいけど、そういう本がなかなかないと思っていた自分には、発売されてうれしい本。
 

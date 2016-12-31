@@ -6,7 +6,7 @@ tags: [イノベーション, Chrisstensen]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798104930"><img src="/images/innovetors_solution.jpg"></img></a></div><div class="book_info">クレイトン・クリステンセン, マイケル・レイナー/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798104930"><img src="/images/innovetors_solution.jpg"></a></div><div class="book_info">クレイトン・クリステンセン, マイケル・レイナー/翔泳社</div><div class="clear"></div></div>
 
 名著「イノベーションのジレンマ」の続編。前作は顧客主義を徹底している良い会社ほど破壊的イノベーションに負けてしまうジレンマを書いていたが、本作はどうすれば破壊的イノベーションを生み出し持続的な会社のの成長を実現できるかを書いている。 
 

@@ -6,7 +6,7 @@ tags: [DB]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798111694"><img src="/images/database_performance.jpg"></img></a></div><div class="book_info">エンコアコンサルティング/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798111694"><img src="/images/database_performance.jpg"></a></div><div class="book_info">エンコアコンサルティング/翔泳社</div><div class="clear"></div></div>
 
 この本を読むといかに自分がデータベースのことを理解していなかったかが分かる(知りたくもなかったのだけど)。インデクスなどを使ってどうジョインされるかが書いてある。インデクスを使いどのように検索されるかを想像しながらSQLが書ける気になれる。とにかく長い。個人的に興味がないこともあり他の本にも浮気しながら読むのに1ヶ月くらいかかった。6章のジョインの説明だけでも良い気がしたけど、そこまで読んでいたから理解できたのか。
 

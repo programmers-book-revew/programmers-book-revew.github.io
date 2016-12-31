@@ -6,7 +6,7 @@ tags: [マーケティング]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894716577/"><img src="/images/marketing_management.jpg"></img></a></div><div class="book_info">フィリップ・コトラー/ピアソン・エデュケーション</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894716577/"><img src="/images/marketing_management.jpg"></a></div><div class="book_info">フィリップ・コトラー/ピアソン・エデュケーション</div><div class="clear"></div></div>
 
 マーケティングのバイブルと呼ばれる本とのこと。半年以上かけて、ようやく読み終わる。つまらないわけでは決してないのだけど、膨大な量(900ページ)に圧倒され何度も他の本に浮気をしてしまった。 
 

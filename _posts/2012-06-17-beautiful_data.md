@@ -6,7 +6,7 @@ tags: [oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114896/"><img src="/images/beautiful_data.jpg"></img></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114896/"><img src="/images/beautiful_data.jpg"></a></div><div class="book_info">/オライリージャパン</div><div class="clear"></div></div>
 
 いろいろとおもしろい話が多かった。勉強になったのはYahooの話。データの自己発見もおもしろい考え方だったがその実装が想像できないので自分が残念。実験のデータをすべてオープンにするという考えは追試が可能というのももちろんだけど、ソーシャルな研究を加速するという意味でおもしろい。 
 

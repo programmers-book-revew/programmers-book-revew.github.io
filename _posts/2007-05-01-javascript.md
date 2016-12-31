@@ -6,7 +6,7 @@ tags: [プログラマ, javascript, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115736"><img src="/images/javascript.jpg"></img></a></div><div class="book_info">David Flanagan / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115736"><img src="/images/javascript.jpg"></a></div><div class="book_info">David Flanagan / オライリージャパン</div><div class="clear"></div></div>
 
 jaxが流行っているので、その前にJavaScriptのお勉強と思い読んでみた。結構大きな本屋(e.g. AOZOの丸善)でもJavaScrpit言語自体をしっかりと解説した本が売っていない。この本が置いていないのは古いからか。パッと調べた感じキチント書いてあるのは唯一この本くらいではないか。amazonで購入。ここら辺を押さえないでちゃんとしたプログラムが出来るとは思えないのだけど。スクリプト言語でちゃんとしたプログラムは必要ないということか。 
 

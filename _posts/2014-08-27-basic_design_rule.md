@@ -6,7 +6,7 @@ tags: [デザイン]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4774166138/"><img src="/images/basic_design_rule.jpg"></img></a></div><div class="book_info">高橋佑麿・片山なつ/技術評論社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4774166138/"><img src="/images/basic_design_rule.jpg"></a></div><div class="book_info">高橋佑麿・片山なつ/技術評論社</div><div class="clear"></div></div>
 
 良い本でした。いままでかっこ悪いと漠然と思っていたスタイルについて、なぜ悪いかを文と多くの例題で理解できる。表紙の「非デザイナー必見!」「センスがなくてもOK!」という言葉どおり。デザインの本だけあってきれいなので読みやすい。
 [http://tsutawarudesign.web.fc2.com/index.html](http://tsutawarudesign.web.fc2.com/index.html) でも一部の内容は読めるけど本の方が、豊富で質も良いと思います。

@@ -6,7 +6,7 @@ tags: [計算機科学]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4000059416"><img src="/images/feynman_lectures_on_computation.jpg"></img></a></div><div class="book_info">ファインマン, A.ヘイ R.アレン / 岩波書店</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4000059416"><img src="/images/feynman_lectures_on_computation.jpg"></a></div><div class="book_info">ファインマン, A.ヘイ R.アレン / 岩波書店</div><div class="clear"></div></div>
 
 17,18歳の時にフト疑問に思った「コンピュータはどこまで賢くなれるのか」という答えの一つである不完全性定理については理解できた。 
 

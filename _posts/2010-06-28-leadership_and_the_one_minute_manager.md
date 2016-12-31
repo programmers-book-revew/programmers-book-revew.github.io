@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478360073"><img src="/images/leadership_and_the_one_minute_manager.jpg"></img></a></div><div class="book_info">K.ブランチャード / ダイヤモンド社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478360073"><img src="/images/leadership_and_the_one_minute_manager.jpg"></a></div><div class="book_info">K.ブランチャード / ダイヤモンド社</div><div class="clear"></div></div>
 
 飛行機のお供にと、本屋で色々な本を買っているついでに色気が出て購入。薄い本でサラッと読むには良い感じ。実際、快速で東京駅から海浜幕張までの間で読み終える。30分程度か。 
 

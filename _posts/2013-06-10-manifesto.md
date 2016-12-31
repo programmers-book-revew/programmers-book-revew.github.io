@@ -6,7 +6,7 @@ tags: [oreilly, 本]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4862391176"><img src="/images/manifesto.jpg"></img></a></div><div class="book_info">ヒュー・マクガイア、ブライアン・オレアリ編/ボイジャー</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4862391176"><img src="/images/manifesto.jpg"></a></div><div class="book_info">ヒュー・マクガイア、ブライアン・オレアリ編/ボイジャー</div><div class="clear"></div></div>
 
 本を読むのが好きな自分には気になる一冊ということで手に取った。なぜ、好きなのかを考えてみると、おそらく本の文章がきっかけとなり、いろいろなことを考えることができるからだと思う。入力に刺激されて思考回路が活発になる感じ。例えば、この本を通じて下のようなことを考えた。
 

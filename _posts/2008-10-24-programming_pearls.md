@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894712369"><img src="/images/programming_pearls.jpg"></img></a></div><div class="book_info">Jon Bentley/ピアソンエデュケーション</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894712369"><img src="/images/programming_pearls.jpg"></a></div><div class="book_info">Jon Bentley/ピアソンエデュケーション</div><div class="clear"></div></div>
 
 ビューティフルコードに感化されて購入した本の第二段。ようやく読み終わる。本の中に書かれていること自体はどこかで目にしたことのあるものばかり。だけど、実際にその考え方が必要な時に使えるかどうかが最も重要なことだと思う。 
 

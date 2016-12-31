@@ -5,7 +5,7 @@ categories: rank_3
 tags: [自己啓発]
 ---
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4532319552"><img src="/images/how_google_works.jpg"></img></a></div><div class="book_info">エリック・シュミット, ジョナサン・ローゼンバーグ/日本経済新聞出版社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4532319552"><img src="/images/how_google_works.jpg"></a></div><div class="book_info">エリック・シュミット, ジョナサン・ローゼンバーグ/日本経済新聞出版社</div><div class="clear"></div></div>
 
 マネージングについて考えるべき時に読み始めた本。残念ながら、そのタイミングでは読み終わらなかったけど。
 

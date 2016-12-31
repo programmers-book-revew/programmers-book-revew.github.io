@@ -6,7 +6,7 @@ tags: [プログラマ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114306"><img src="/images/beautiful_architecture.jpg"></img></a></div><div class="book_info">Diomidis Spinellis, Georgios Gousios / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114306"><img src="/images/beautiful_architecture.jpg"></a></div><div class="book_info">Diomidis Spinellis, Georgios Gousios / オライリージャパン</div><div class="clear"></div></div>
 
 最初の方は正直退屈だったのだけど、後半は学生時代の研究と重なるVM系とプログラム言語もありお腹一杯楽しめました。 
 

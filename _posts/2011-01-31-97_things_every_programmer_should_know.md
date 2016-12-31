@@ -6,7 +6,7 @@ tags: [プログラマ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115116"><img src="/images/97_things_every_programmer_should_know.jpg"></img></a></div><div class="book_info">Kevlin Henney/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873115116"><img src="/images/97_things_every_programmer_should_know.jpg"></a></div><div class="book_info">Kevlin Henney/オライリージャパン</div><div class="clear"></div></div>
 
 USに来たときに下のURLで英語の勉強を兼ねて一日一話ずつ読もうと思うも見事に3日坊主に。 [http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) 出張時の飛行機で読む本が無いことに空港で気づき慌ててダウンロード。
 

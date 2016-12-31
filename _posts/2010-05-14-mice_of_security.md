@@ -6,7 +6,7 @@ tags: [セキュリティ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114519"><img src="/images/mice_of_security.jpg"></img></a></div><div class="book_info">John Viega  / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873114519"><img src="/images/mice_of_security.jpg"></a></div><div class="book_info">John Viega  / オライリージャパン</div><div class="clear"></div></div>
 
 イノベーションの神話のように、通常の人が普通そうだろうと思っているようなことが実は違うという目から鱗が出るような話を期待していたのだけど、ちょっとがっかり。各トピックに対してブログレベルの記事で自分の意見を述べているという感じ。トピックの内容は主にセキュリティ業界の実態。著者自身もその業界にいるので、何かうさん臭い香りもする。 
 

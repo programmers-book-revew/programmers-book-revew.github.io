@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822281868"><img src="/images/waltzing_with_bears.jpg"></img></a></div><div class="book_info">Tom DeMarco & Timothy Lister/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822281868"><img src="/images/waltzing_with_bears.jpg"></a></div><div class="book_info">Tom DeMarco & Timothy Lister/日経BP社</div><div class="clear"></div></div>
 
 リスク管理入門書。やさしく、おもしろく書いている。とは言え、リスクなんて考えたくない自分には、とてもためになった。
 

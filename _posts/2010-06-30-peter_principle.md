@@ -6,7 +6,7 @@ tags: [チーム]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478760853"><img src="/images/peter_principle.jpg"></img></a></div><div class="book_info">ローレンス・J・ピーター / ダイヤモンド社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478760853"><img src="/images/peter_principle.jpg"></a></div><div class="book_info">ローレンス・J・ピーター / ダイヤモンド社</div><div class="clear"></div></div>
 
 最初は仕事ができる人でも、昇進していく度に異なる要素が求められるために、いつかは適合しない所で昇進が止まる。それは、その役職で無能なことを意味するため、無能な人で役職が埋め尽くされることになる。本文では次のように言っている。
 

@@ -6,7 +6,7 @@ tags: [web, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113113"><img src="/images/scalable_web_site.jpg"></img></a></div><div class="book_info">Cal Henderson/オライリー・ジャパン </div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113113"><img src="/images/scalable_web_site.jpg"></a></div><div class="book_info">Cal Henderson/オライリー・ジャパン </div><div class="clear"></div></div>
 
 Flickrの人。 
 

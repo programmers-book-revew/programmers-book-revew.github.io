@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274068579"><img src="/images/7languages_7weeks.jpg"></img></a></div><div class="book_info">Bruce Tate/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274068579"><img src="/images/7languages_7weeks.jpg"></a></div><div class="book_info">Bruce Tate/オーム社</div><div class="clear"></div></div>
 
 7つの言語であるRuby, Io, Prolog, Scala, Erlang, Clojure, Haskellの外観を説明している本。
 

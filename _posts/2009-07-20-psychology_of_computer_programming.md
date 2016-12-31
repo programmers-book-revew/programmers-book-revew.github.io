@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4844323040"><img src="/images/psychology_of_computer_programming.jpg"></img></a></div><div class="book_info">ジェラルド・M. ワインバーグ/技術評論社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4844323040"><img src="/images/psychology_of_computer_programming.jpg"></a></div><div class="book_info">ジェラルド・M. ワインバーグ/技術評論社</div><div class="clear"></div></div>
 
 社内のtwitter(というか自分で勝手に立てた)で貸りることができた。ありがたい限り。 
 

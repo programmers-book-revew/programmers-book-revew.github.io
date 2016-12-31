@@ -6,7 +6,7 @@ tags: [コンサルタント, ワインバーグ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320023684"><img src="/images/are_you_lights_on.jpg"></img></a></div><div class="book_info">ドナルド・C・ゴース, G.M.ワインバーグ / 共立出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320023684"><img src="/images/are_you_lights_on.jpg"></a></div><div class="book_info">ドナルド・C・ゴース, G.M.ワインバーグ / 共立出版</div><div class="clear"></div></div>
 
 もうワインバーグはいいやと思っていたのだけど、本屋で見たら、薄くて軽そうな内容だったので、小説でも読む感覚で買ってみた。思いのほか軽すぎて1日持たなかったけど。
 

@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4790713512"><img src="/images/good_business.jpg"></img></a></div><div class="book_info">M.チクセントミハイ/世界思想社教学社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4790713512"><img src="/images/good_business.jpg"></a></div><div class="book_info">M.チクセントミハイ/世界思想社教学社</div><div class="clear"></div></div>
 
 ビジネスに特化した話題ではあるけど、主題はフロー体験でほぼ言い尽くされている感があり、特に新しい何かが得られたという感じはしなかった。 
 

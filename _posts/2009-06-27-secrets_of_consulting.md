@@ -6,7 +6,7 @@ tags: [コンサルタント, ワインバーグ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320025377/"><img src="/images/secrets_of_consulting.jpg"></img></a></div><div class="book_info">G.M.ワインバーグ/共立出版</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4320025377/"><img src="/images/secrets_of_consulting.jpg"></a></div><div class="book_info">G.M.ワインバーグ/共立出版</div><div class="clear"></div></div>
 
 自分はSEではないし、ましてやコンサルタントではない、と思い読もうとしなかった本。他の人に勧められたのであっさり読む。他の人の勧められれば、幅を広げるためにも読もうと思っている。そして、事実今までにない考えに触れられることが多い。この本もそうだった。 
 

@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788506793"><img src="/images/why_we_do_what_we_do.jpg"></img></a></div><div class="book_info">エドワード・L.デシ / 新曜社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4788506793"><img src="/images/why_we_do_what_we_do.jpg"></a></div><div class="book_info">エドワード・L.デシ / 新曜社</div><div class="clear"></div></div>
 
 次の一文(cf. p.27のメモ)にひかれて読んでみた。この意味だけ知ればいいかと思っていたけど、読んでみると止まらず最後まで読む。
 

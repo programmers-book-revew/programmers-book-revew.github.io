@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4422100513"><img src="/images/how_to_win_friends.jpg"></img></a></div><div class="book_info">Dale Carnegie/創元社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4422100513"><img src="/images/how_to_win_friends.jpg"></a></div><div class="book_info">Dale Carnegie/創元社</div><div class="clear"></div></div>
 
 下のメモの“父は忘れる”を読んで衝動買いしたけど、良い本だった。 
 

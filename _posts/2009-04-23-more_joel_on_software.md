@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798118923"><img src="/images/more_joel_on_software.jpg"></img></a></div><div class="book_info">Joel Spolsky/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798118923"><img src="/images/more_joel_on_software.jpg"></a></div><div class="book_info">Joel Spolsky/翔泳社</div><div class="clear"></div></div>
 
 元Microsoftに勤めていたJoel Spolskyの本。以前、読んだ本の続編。blog(の翻訳)で多くのものは読んだこともあったのだけど、おもしろいもはおもしろい。あっという間に読んだ。といいながら、2週間くらい経っている気がするけど。 
 

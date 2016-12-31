@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798116831"><img src="/images/working_effectively_with_legacy_code.jpg"></img></a></div><div class="book_info">Michael C. Feathers/翔泳社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4798116831"><img src="/images/working_effectively_with_legacy_code.jpg"></a></div><div class="book_info">Michael C. Feathers/翔泳社</div><div class="clear"></div></div>
 
 テストのないコードをレガシーコードと位置づけ、それを修正する時のリファクタリングテクニックを網羅したような本。テストドリブンが叫ばれていてその重要性を理解しながらも、やはりテストを後で書きたい自分にぴったりと読んでみた。残念ながら(というかそもそもの認識誤りで)、期待した内容ではなかったものの、本に書かれていること自体は大変ためになると思う。
 

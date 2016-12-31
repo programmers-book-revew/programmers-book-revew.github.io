@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274065979"><img src="/images/hacker_and_painter.jpg"></img></a></div><div class="book_info">Paul Graham/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274065979"><img src="/images/hacker_and_painter.jpg"></a></div><div class="book_info">Paul Graham/オーム社</div><div class="clear"></div></div>
 
 何人かに勧められたけど忙しくて読めずに忘れていた本。 
 

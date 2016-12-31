@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894712741"><img src="/images/pragmatic_programmer.jpg"></img></a></div><div class="book_info">Andrew Hunt, David Thomas/ピアソンエデュケーション</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4894712741"><img src="/images/pragmatic_programmer.jpg"></a></div><div class="book_info">Andrew Hunt, David Thomas/ピアソンエデュケーション</div><div class="clear"></div></div>
 
 beautiful codeの余韻で一気に購入した本の一つ。ようやく読み始められた。 
 

@@ -6,7 +6,7 @@ tags: [イノベーション, IDEO]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4152087366"><img src="/images/ten_faces_of_innovation.jpg"></img></a></div><div class="book_info">トム・ケリー, ジョナサン・リットマン/早川書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4152087366"><img src="/images/ten_faces_of_innovation.jpg"></a></div><div class="book_info">トム・ケリー, ジョナサン・リットマン/早川書房</div><div class="clear"></div></div>
 
 “発想する会社!”と同じ著者で、IDEOのイノベーション方法について述べている。うまく説明できないのだけど、個々のエピソードがおもしろくて、読みやすい。素直にこういうクリエイティブな雰囲気で仕事がしたいとうらやましく思う。もちろん、個々の非凡な力量があってこそ成り立つのだろうけど。セキュリティのためにアホみたいな非生産的な施策をしたりマイクロマネージメントしたりと信頼関係を築こうとも思っていないような多くの日本の組織とは真逆だろう(cf. pp.148-150のメモ)。 
 

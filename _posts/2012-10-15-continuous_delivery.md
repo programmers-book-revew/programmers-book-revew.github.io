@@ -6,7 +6,7 @@ tags: [プログラマ, devops]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4048707876"><img src="/images/continuous_delivery.jpg"></img></a></div><div class="book_info">David Farley等/アスキー・メディアワークス</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4048707876"><img src="/images/continuous_delivery.jpg"></a></div><div class="book_info">David Farley等/アスキー・メディアワークス</div><div class="clear"></div></div>
 
 良い本だった。実務でリリース業務に携わったことがなく、その知識がゼロに等しい自分には、このような本を読むことで一通りの考え方が分かるというのは大変ありがたい。特に、どうやるという方法論ではなく、なぜやるのかという考え方を教えてくれるので、知識がすぐ陳腐化せずに、また応用も効きやすい。
 

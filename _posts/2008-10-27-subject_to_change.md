@@ -6,7 +6,7 @@ tags: [イノベーション, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113857"><img src="/images/subject_to_change.jpg"></img></a></div><div class="book_info">Peter Merholz, Brandon Schauer, David Verba, Todd Wilkens / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4873113857"><img src="/images/subject_to_change.jpg"></a></div><div class="book_info">Peter Merholz, Brandon Schauer, David Verba, Todd Wilkens / オライリージャパン</div><div class="clear"></div></div>
 
 単なるmp3プレイヤーを作るのではなく、iPodという優れたサービスを作るための考え方みたいなものが書かれていると認識。その考えを一言で言えば、“製品ではなく顧客の体験を重視せよ”であり、コトラーの言葉を借りれば、“ドリルを買う人は、実のところドリルで開ける穴を買うのである”か。まずはこの重要性に気づこうというレベルかな。重要ではないと思う人は下のURLのp.100の図6-2を見ると良い。362社にアンケートし、95%が自社を「顧客中心」であると回答し、80%が「優れた体験」を提供していると回答しているが、その企業の顧客が実際にそう感じている割合はわずか8%だった。iPod並みの感動をそう経験しないことからもこの数字は妥当だと思う。 
 

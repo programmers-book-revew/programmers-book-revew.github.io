@@ -5,7 +5,7 @@ categories: rank_3
 tags: [リーンスタートアップ]
 ---
 
-<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/4873117216"><img src="/images/lean_customer_development.jpg"></img></a></div><div class="book_info">シンディ・アルバレス/オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/4873117216"><img src="/images/lean_customer_development.jpg"></a></div><div class="book_info">シンディ・アルバレス/オライリージャパン</div><div class="clear"></div></div>
 
 
 「オフィスで議論していても意味はない。今すぐオフィスを出てユーザに聞こう。」と言われて、じゃあどうしようと思ったときに役立つ本。

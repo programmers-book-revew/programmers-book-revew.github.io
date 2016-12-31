@@ -6,7 +6,7 @@ tags: [経済]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/415209284X"><img src="/images/whatmoneycantbuy.jpg"></img></a></div><div class="book_info">Michael Sandel/早川書房</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/415209284X"><img src="/images/whatmoneycantbuy.jpg"></a></div><div class="book_info">Michael Sandel/早川書房</div><div class="clear"></div></div>
 
 マイケル・サンデル著。8月に図書館で予約して約半年後、ようやく借りれる。直前のTVで見た内容とほぼ同じなので、ささっと読めた。正義の話の本よりも、軽い感じ。
 

@@ -6,7 +6,7 @@ tags: [プログラマ, パズル]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274067556"><img src="/images/puzzlers_for_programmers_and_pros.jpg"></img></a></div><div class="book_info">Dennis E. Shasha/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274067556"><img src="/images/puzzlers_for_programmers_and_pros.jpg"></a></div><div class="book_info">Dennis E. Shasha/オーム社</div><div class="clear"></div></div>
 
 その辺の論理パズルやFermi Problem本とはレベルが違う感じで良い感じ。問題が解けると素直にうれしくなる。問題を解くのが単純に楽しい。全ての問題を解くのがもったいないと思えるくらい、次の問題を読むのが楽しみだった。 
 

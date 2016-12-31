@@ -6,7 +6,7 @@ tags: [プログラマ, oreilly]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311389X"><img src="/images/thought_works_anthology.jpg"></img></a></div><div class="book_info">ThoughtWorks Inc. / オライリージャパン</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/487311389X"><img src="/images/thought_works_anthology.jpg"></a></div><div class="book_info">ThoughtWorks Inc. / オライリージャパン</div><div class="clear"></div></div>
 
 GoFのfowlerが所属する会社の人たちが書いたエッセイ集。fowlerのリファクタリングは読んでておもしろかった(といいながら彼のブログは読んでない)。そして実は、開発手法論にはあまり興味がない。XPが出たての頃に追おうと思って本を読んだりしたけど、イマイチ興味が沸かず、深入りしなかった。まあ、実務で開発していないんだから興味出る方が不思議なんだろうけど。 
 

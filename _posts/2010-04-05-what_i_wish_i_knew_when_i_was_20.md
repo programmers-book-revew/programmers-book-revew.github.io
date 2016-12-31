@@ -6,7 +6,7 @@ tags: [自己啓発]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4484101017"><img src="/images/what_i_wish_i_knew_when_i_was_20.jpg"></img></a></div><div class="book_info">ティナ・シーリグ/阪急コミュニケーションズ</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4484101017"><img src="/images/what_i_wish_i_knew_when_i_was_20.jpg"></a></div><div class="book_info">ティナ・シーリグ/阪急コミュニケーションズ</div><div class="clear"></div></div>
 
 良い本だった。最初の「手元に5ドルあります。二時間でできるだけ増やせと言われたら、みなさんはどうしますか?」という問いの答えがおもしろく一気に惹き込まれる。本を読むのが楽しいと思える良い時間を作ってもらった。賢いアイデアに触れるのは何よりの喜びと自分自身を再確認。何か新しいものを作りたいと思っている人ならこういうアイデアに触れつづけることは重要だと思う。その後は、グサリグサリと突き刺さる良い言葉の連発。それはまさしく自分がダメだと思っているところを、もしくはこうなりたいと思っているにもかかわらずできていない所をズバリと突かれているからだと思う。20歳のときに知りたかったとあるけど、社会人数年してからの方がありがたみがわかると思う。そういう意味では何回も読み返したい本。自分を奮い立たせるにも良い気がする。興味深い豊富な具体例で納得させられた。アイデアの出し方についても良い方法を教えてもらった気もする。 
 

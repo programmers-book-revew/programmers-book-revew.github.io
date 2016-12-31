@@ -6,7 +6,7 @@ tags: [プログラマ, haskell]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274068854"><img src="/images/learn_you_a_haskell.jpg"></img></a></div><div class="book_info">Miran Lipovaca/オーム社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4274068854"><img src="/images/learn_you_a_haskell.jpg"></a></div><div class="book_info">Miran Lipovaca/オーム社</div><div class="clear"></div></div>
 
 Hakellの力強さが理解できるよい本だった。自分が書けるようになるかは自信はないが、少なくても書いてあることは理解した気になれるのでうれしい。
 なぜ良い本なのかを挙げてみる。

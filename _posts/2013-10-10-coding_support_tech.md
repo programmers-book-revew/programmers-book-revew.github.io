@@ -6,7 +6,7 @@ tags: [プログラマ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/477415654X"><img src="/images/coding_support_tech.jpg"></img></a></div><div class="book_info">西尾泰和/技術評論社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/477415654X"><img src="/images/coding_support_tech.jpg"></a></div><div class="book_info">西尾泰和/技術評論社</div><div class="clear"></div></div>
 
 何か自分には合わない本でした。Webで見ると評判いいのはなぜだろう。
 

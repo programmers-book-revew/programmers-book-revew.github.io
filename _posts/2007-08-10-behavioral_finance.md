@@ -6,7 +6,7 @@ tags: [経済]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478210381"><img src="/images/behavioral_finance.jpg"></img></a></div><div class="book_info">ヨアヒム・ゴールドベルグ, リュディガー・フォン・ニーチュ/ダイヤモンド社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4478210381"><img src="/images/behavioral_finance.jpg"></a></div><div class="book_info">ヨアヒム・ゴールドベルグ, リュディガー・フォン・ニーチュ/ダイヤモンド社</div><div class="clear"></div></div>
 
 人間は愚かだという前提に基づいて作られた理論に興味深々。人間の一人一人のミクロの行動から経済全体のマクロの動きが説明されることを期待していたのだけど、残念ながらそこまでは発展していないようでした。
 

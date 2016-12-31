@@ -6,7 +6,7 @@ tags: [misc]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822279804"><img src="/images/se_become_extinct.jpg"></img></a></div><div class="book_info">木村 岳史/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822279804"><img src="/images/se_become_extinct.jpg"></a></div><div class="book_info">木村 岳史/日経BP社</div><div class="clear"></div></div>
 
 絶対に落ちないことが求められている基幹業務システムも、現在の技術を用いれば、落ちてもすぐに復旧するようなシステムであれば少人数で作れるのではないか、と漠然と考えている自分には、SIという仕事が今後どうなるのかを考えるきっかけとなる良い本だった。
 

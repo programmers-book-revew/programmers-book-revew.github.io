@@ -6,7 +6,7 @@ tags: [セキュリティ]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822283100"><img src="/images/beyond_afear.jpg"></img></a></div><div class="book_info">ブルース・シュナイアー/日経BP社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4822283100"><img src="/images/beyond_afear.jpg"></a></div><div class="book_info">ブルース・シュナイアー/日経BP社</div><div class="clear"></div></div>
 
 セキュリティには絶対がない、リスクとのトレードオフ、結局は人、など本質的なことが多く書かれている。知識的にあまり得られたことが無いと思えるのは、いつも感じていることから腑に落ちるのが早すぎて、あまりに納得できるからだったからか。 
 

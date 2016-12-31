@@ -5,7 +5,7 @@ categories: rank_4
 tags: [自己啓発]
 ---
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4492533656/"><img src="/images/work_rules.jpg"></img></a></div><div class="book_info">ラズロ・ボック/東洋経済新報社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/4492533656/"><img src="/images/work_rules.jpg"></a></div><div class="book_info">ラズロ・ボック/東洋経済新報社</div><div class="clear"></div></div>
 
 
 グーグルの人事の人の本。この会社の組織はどう作られるか興味があったが、期待どおりおもしろかった。

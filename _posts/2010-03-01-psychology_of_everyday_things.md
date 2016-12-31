@@ -6,7 +6,7 @@ tags: [UI, Norman]
 ---
 
 
-<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/478850362X"><img src="/images/psychology_of_everyday_things.jpg"></img></a></div><div class="book_info">D.A. ノーマン/新曜社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="http://www.amazon.co.jp/dp/478850362X"><img src="/images/psychology_of_everyday_things.jpg"></a></div><div class="book_info">D.A. ノーマン/新曜社</div><div class="clear"></div></div>
 
 読もう読もうと思っていてようやくこの名著(オリジナル初版は1988年!)を読む。UIの本質はDon't make me think(ユーザに考えさせない)かと思っていたけど、それの他に自分の行為を適切にフィードバックする(ユーザに何が起きているかを表示する)ことも重要ということなんだということを学んだ。と思ったらずばりp.308に書かれていた。内容的には、いろいろなところでこの本の影響を受けた文章を読んでいたせいか、目新しいものはなかった。自分のUIに対する考えが、この本に書いてあることに沿って理解できていることを確かめることができてよかった。 
 
