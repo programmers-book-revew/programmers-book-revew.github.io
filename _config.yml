@@ -2,12 +2,15 @@ excerpt_separator: "<!--more-->"
 exclude: [vendor]
 permalink: /:title
 
+# GEMS
+gems: [jekyll-paginate]
+
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://programmers-book-review.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+mytheme:
   # Meta
   title: プログラマによる読書メモ
   avatar: blog_base/icon.png
@@ -61,7 +64,7 @@ paginate_path: "page_:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
