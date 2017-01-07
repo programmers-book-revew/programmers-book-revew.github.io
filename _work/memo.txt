@@ -1,3 +1,19 @@
+[10:35am] fukuyama: ＞皆様　IRC がダウンするのでこれに入っておいてください　https://nttdocomo.webex.com/nttdocomo/e.php?MTID=m9b0993a5120b96ecd9623b588594a8f5
+[10:35am] bot がチャットルームを去りました。 (Remote host closed the connection)
+[10:36am] fukuyama: 火曜日用はこちら　→　https://nttdocomo.webex.com/nttdocomo/j.php?MTID=mfc7d3a21b1c9ab6a73c39c076cac5391
+          fukuyama: ミーティング番号: 864 399 627
+[10:37am] fukuyama: ミーティングパスワード: A523uS7W
+[10:37am] fukuyama: 主催者キー: 425922
+[10:37am] fukuyama: 「IRC代用」です
+
+* mail4.d-skylab.com をMXで登録
+* jportal, twへ変更通知
+* monitoring3を作って、新規はそっちに
+  IPアドレス制限をしているので実態がないとダメ → mojiは見送り
+
+* キャッシュなど現在動きがヤバい所を教えてもらって設定し直し
+
+
 * postの追加は _posts/ に直接 mdファイルを置く
 * images にアイコンを置く
 * プログラムの実行
@@ -5,3 +21,7 @@
   http://localost:4000/ 
 * tagを追加するには _layouts/tag.html に追加する
 * もう、review.jsonは管理しない
+
+
+
+
