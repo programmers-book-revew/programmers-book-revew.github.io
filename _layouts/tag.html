@@ -1,12 +1,11 @@
 ---
 layout: default
-tags: [ "プログラマ", "計算機科学", "イノベーション", "lisp", "java", "javascript", "haskell", "DB", "UI", "web", "devops", "機械学習", "デザイン", "セキュリティ", "ソフトウェア工学", "チーム", "マーケティング", "統計", "プレゼンテーション", "コンサルタント", "oreilly", "Chrisstensen", "Berkun", "IDEO", "Norman", "ワインバーグ", "プログラマの読み物", "パズル", "自己啓発", "経済", "本", "マンガ", "misc"]
 ---
 <article>
 {% for tag in page.tags %}
 <div class="spacer"></div>
 <header class="post-header" id="{{ tag }}">
-    <h1 class="post-title"><span class="fa fa-tag"></span>{{ tag  }}</h1>
+    <h1 class="post-title"><a href="#{{ tag }}" class="tag"><span class="fa fa-tag"></span>{{ tag }}</a></h1>
 </header>
 
 <section class="post-content">
