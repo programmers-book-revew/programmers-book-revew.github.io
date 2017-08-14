@@ -5,7 +5,7 @@ categories: rank_3
 tags: [自己啓発]
 ---
 
-<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/B00K9YAMT6"><img src="/images/introduce-of-caching.jpg"></a></div><div class="book_info">鈴木義幸/日本実業出版社 </div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/B00K9YAMT6"><img src="/images/introduce-of-coaching.jpg"></a></div><div class="book_info">鈴木義幸/日本実業出版社 </div><div class="clear"></div></div>
 
 仕事で行き詰まった時に自分自身に「なぜなぜ」を繰り返し、自身の弱さが原因であることの気づきを得ることで有効性を感じることが出来た。これと、世の中の「コーチング」と何が違うのか、を知るためにコーチングのお勉強をしてみようと思い、本を手に取った。
 
