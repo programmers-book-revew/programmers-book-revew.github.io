@@ -5,7 +5,7 @@ categories: rank_3
 tags: [イノベーション]
 ---
 
-<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/B072PXY32Q"><img src="/images/anti-fragile.jpg"></a></div><div class="book_info">ナシーム・ニコラス・タレブ/ダイヤモンド社</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="https://www.amazon.co.jp/dp/B072PXY32Q"><img src="/images/antifragile.jpg"></a></div><div class="book_info">ナシーム・ニコラス・タレブ/ダイヤモンド社</div><div class="clear"></div></div>
 
 以下、自分用メモ
 
