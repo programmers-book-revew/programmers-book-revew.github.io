@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 失敗学のすすめ
-categories: rank_3
+categories: rank_4
 tags: [イノベーション]
 ---
 
