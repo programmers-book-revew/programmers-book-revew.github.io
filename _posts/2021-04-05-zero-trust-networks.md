@@ -2,7 +2,7 @@
 layout: post
 title: ゼロトラストネットワーク
 categories: rank_3
-tags: [ネットワーク, オライリー]
+tags: [ネットワーク, oreilly]
 ---
 
 <div class="book"><div class="book_image"><a href="https://www.oreilly.co.jp/books/9784873118888/"><img src="/images/zero-trust-networks.jpg"></a></div><div class="book_info">Evan Gilman等/O'Reilly Japan</div><div class="clear"></div></div>
