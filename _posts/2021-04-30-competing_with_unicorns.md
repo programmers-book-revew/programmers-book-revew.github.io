@@ -5,7 +5,7 @@ categories: rank_4
 tags: [チーム, oreilly]
 ---
 
-<div class="book"><div class="book_image"><a href="https://www.oreilly.co.jp/books/9784873119465/"><img src="/images/competing-with_unicorns.jpg"></a></div><div class="book_info">Jonathan Rasmusson/O'Reilly Japan</div><div class="clear"></div></div>
+<div class="book"><div class="book_image"><a href="https://www.oreilly.co.jp/books/9784873119465/"><img src="/images/competing-with-unicorns.jpg"></a></div><div class="book_info">Jonathan Rasmusson/O'Reilly Japan</div><div class="clear"></div></div>
 
 ### 自分のまとめ
 
